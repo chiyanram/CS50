@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ram/CLionProjects/CS50/caesar.c
+stdio.h
+-
+cs50.h
+-
+stdlib.h
+-
+ctype.h
+-
+string.h
+-
+
